@@ -1,0 +1,9 @@
+2026-02-08 21:55:09,867 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:30:23,644 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:32:53,765 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:35:33,259 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:39:38,184 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:41:24,731 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:45:45,724 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:48:35,327 | WARNING | phishing | PHISHING | Risk=0.93
+2026-02-08 22:53:58,428 | WARNING | phishing | PHISHING | Risk=0.93 | Reasons=['Domain age is very low', 'HTTPS is not used', 'Credential collection form detected', 'Multiple redirects detected']
