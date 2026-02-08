@@ -1,0 +1,36 @@
+EXAMPLE 1:
+URGENT ACTION REQUIRED
+
+Your PayPal account has been temporarily limited due to suspicious activity.
+Please verify your identity immediately using the link below.
+
+Failure to verify within 24 hours will result in permanent suspension.
+
+http://secure-paypal-login.com/verify
+
+
+EXAMPLE 2:
+Security Alert – Bank Account
+
+We detected unusual login attempts on your bank account.
+Confirm your details now to avoid account blocking.
+
+http://sbi-verification.net/update
+
+
+EXAMPLE 3:
+Payment Failure Notice
+
+Your Netflix subscription payment has failed.
+Update your billing information to continue your service.
+
+http://netflix-payment-issue.help/login
+
+
+EXAMPLE 4:
+Government Refund Notification
+
+You are eligible for an income tax refund.
+Submit your details immediately to receive the refund.
+
+http://gov-incometax-refund.co/claim

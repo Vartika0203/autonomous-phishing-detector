@@ -1,0 +1,43 @@
+EXAMPLE 1:
+Monthly Account Statement
+
+Dear Customer,
+
+Your monthly bank account statement is now available.
+Please log in through the official website to view it.
+
+Thank you,
+Customer Support Team
+
+
+EXAMPLE 2:
+Security Notification
+
+We detected a new sign-in to your Google account from a new device.
+If this was you, no further action is required.
+
+Regards,
+Google Security Team
+
+
+EXAMPLE 3:
+Order Confirmation
+
+Hello,
+
+Your Amazon order has been successfully placed.
+You can track your order using the Amazon app or website.
+
+Thank you for shopping with us.
+
+
+EXAMPLE 4:
+Academic Notification
+
+Dear Student,
+
+The mid-semester examination timetable has been released.
+Please check the college portal for details.
+
+Regards,
+Administration
